@@ -4,23 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khushi+Negi!;" />
 </h1>
 
-<h3 align="center">A Innovative MERN Developer 🇨🇦</h3>
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>Hey Everyone! Khushi this side 👋. I'm a passionate student who has delved into the realm of web development and specializing in MERN. That's where my introduction starts, but not where my passion ends, as everyday, I'm honing my skills in complex problem solving, and creating solutions that can benefit our society. Let's begin this journey of exploration. 🚀</p>
+</div>
+
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Khushi-Negi/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p> Connections are important, and I'm all for it! Here are my socials, feel free to connect with me on Linkedin! Or, feel free to check out my Twitter and Github too!</p>
+ <div align="center"> 
   <a href="mailto:khushinegi1518@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
