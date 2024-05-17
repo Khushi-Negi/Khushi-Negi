@@ -3,9 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khushi+Negi!;" />
 </h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=FFFFFF&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Github+🙏;+I'm+Ujjawal+Gusain!;" />
-</h1>
 
 <div align="center">
     <h2>🚀 About Me</h2>
@@ -16,13 +13,10 @@
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> Connections are important, and I'm all for it! Here are my socials, feel free to connect with me on Linkedin! Or, feel free to check out my Twitter and Github too!</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/ujjawal-gusain">
-    <img src="https://img.shields.io/badge/ujjawal-gusain?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/khushi-negi-045014307">
+    <img src="https://img.shields.io/badge/Khushi-Negi?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/UjjawalGusain31" target="_blank">
-    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FUjjawalGusain31&style=for-the-badge&logo=Twitter&logoColor=%23000000">
-  </a> 
-  <a href="https://github.com/UjjawalGusain" target="_blank">
+  <a href="https://github.com/Khushi-Negi" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
   </a>
 </div>
@@ -30,8 +24,8 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p> "Every commit counts!" is my motto! Discipline is a skill, and I firmly believe consistensy and dedication are cornerstones of success. Here is my funky Github contribution heatmap.</p> 
-  <img src="https://raw.githubusercontent.com/UjjawalGusain/UjjawalGusain/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/UjjawalGusain/UjjawalGusain/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
@@ -76,17 +70,17 @@
 <p>Here's a bunch of stats for all my nerds!!! 🖥️</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjjawalGusain&theme=github_dark" alt="My GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjawalGusain&theme=merko" alt="My Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khushi-Negi&theme=github_dark" alt="My GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Negi&theme=merko" alt="My Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjjawalGusain&theme=github_dark" alt="my stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjawalGusain&theme=github_dark&utcOffset=10" alt="my stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UjjawalGusain&theme=github_dark" alt="my stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UjjawalGusain&theme=github_dark" alt="my stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khushi-Neg&theme=github_dark" alt="my stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khushi-Neg&theme=github_dark&utcOffset=10" alt="my stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khushi-Neg&theme=github_dark" alt="my stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khushi-Neg&theme=github_dark" alt="my stats"/></td>
     </tr>
  </table>
 </div>
