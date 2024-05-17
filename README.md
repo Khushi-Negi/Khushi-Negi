@@ -6,7 +6,9 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hey Everyone! Ujjawal this side 👋. I'm a passionate student who has delved into the realm of Software Engineering and Machine Learning, specializing in MERN. That's where my introduction starts, but not where my passion ends, as everyday, I'm honing my skills in complex problem solving, and creating solutions that can benefit our society. Let's begin this journey of exploration. 🚀</p>
+    <p>Hey Everyone! Khushi this side 👋. so I am passionate about web development and posses strong functional skills in the MERN stack (Mongo DB, Enpress.js React.js and Node.js). I am eager to translate Any theoritical knowledge into practical knowledge.I am quick learner, posses excellent problem-solving skill, and thrives in collaborative environment So I am confident that my technical abilities coupled. with my cargerness to learn and contributed will make me a valuable assets to your team.so lastly i envision myself as a highly skilled and innovative MERN developer, crafting user centric web application that empowers users to solve Meal-world problem.
+
+I aim to Bridge the gap between creative design and robust functionalities. became a valuable team player, frostering collaboration  and knowledge sharing within development team. That's where my introduction starts, but not where my passion ends, as everyday, I'm honing my skills in complex problem solving, and creating solutions that can benefit our society. Let's begin this journey of exploration. 🚀</p>
 </div>
 
 <div align="center">
