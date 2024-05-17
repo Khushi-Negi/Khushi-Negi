@@ -42,8 +42,7 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p> "Every commit counts!" is my motto! Discipline is a skill, and I firmly believe consistensy and dedication are cornerstones of success. Here is my funky Github contribution heatmap.</p> 
-  <img src="https://raw.githubusercontent.com/Khushi-Negi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/Khushi-Negi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  ![GitHub Snake](https://github.com/Khushi-Negi/Khushi-Negi/blob/output/github-snake.svg)
 </div>
 <hr/>
 
