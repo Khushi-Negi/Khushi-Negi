@@ -45,13 +45,11 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <h2>🚀 Github Commits</h2>
+    <p> "Every commit counts!" is my motto! Discipline is a skill, and I firmly believe consistensy and dedication are cornerstones of success. Here is my funky Github contribution heatmap.</p> 
+  <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
