@@ -42,17 +42,30 @@
 <div align="center">
   <h2>🚀 Github Commits</h2>
     <p> "Every commit counts!" is my motto! Discipline is a skill, and I firmly believe consistensy and dedication are cornerstones of success. Here is my funky Github contribution heatmap.</p> 
-  ![GitHub Snake](https://github.com/Khushi-Negi/Khushi-Negi/blob/output/github-snake.svg)
+ 
+<img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Khushi-Negi.vercel.app/?user=Khushi-Negi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Khushi-Negi.vercel.app/api?username=Khushi-Negi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Khushi-Negi.vercel.app/api/top-langs/?username=Khushi-Negi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Here's a bunch of stats for all my nerds!!! 🖥️</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khushi-Negi&theme=github_dark" alt="My GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Negi&theme=merko" alt="My Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khushi-Negi&theme=github_dark" alt="my stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khushi-Negi&theme=github_dark&utcOffset=10" alt="my stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khushi-Negi&theme=github_dark" alt="my stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khushi-Negi&theme=github_dark" alt="my stats"/></td>
+    </tr>
+ </table>
 </div>
 
 <br/><br/>
