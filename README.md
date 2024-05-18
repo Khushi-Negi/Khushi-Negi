@@ -11,7 +11,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> Connections are important, and I'm all for it! Here are my socials, feel free to connect with me on Linkedin! Or, feel free to check out my Twitter and Github too!</p>
+<p> Strong connections fuel collaboration and innovation in the technical world. Building meaningful connections fosters knowledge sharing and growth within the tech community. In the digital landscape, connections pave the way for impactful partnerships and transformative advancements ! Here are my socials, feel free to connect with me on Linkedin! Or, feel free to check out my Github t</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/khushi-negi-045014307">
     <img src="https://img.shields.io/badge/Khushi-Negi?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
