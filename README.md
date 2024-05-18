@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/khushi-negi-045014307">
     <img src="https://img.shields.io/badge/Khushi-Negi?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Khushi-Negi" target="_blank">
+  <a href="https://github.com/Khushi-Negi" target="_blank"> 
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
   </a>
 </div>
