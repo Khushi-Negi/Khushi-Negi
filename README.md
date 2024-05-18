@@ -23,13 +23,14 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p> "Every commit counts!" is my motto! Discipline is a skill, and I firmly believe consistensy and dedication are cornerstones of success. Here is my funky Github contribution heatmap.</p> 
+    <p> Every single contribution matters!" is my guiding principle. I value discipline as a skill and believe that consistency and dedication are crucial for achieving success. Take a look at my vibrant Github contribution heatmap.
+</p> 
   <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> From binary to python, we came a long way. As someone who's interested in creating diverse solutions, I cannot let any language barrier stop me! Here are the language tools under my belt</p>
+<p> Throughout my journey, I've gone from feeling like I was deciphering an alien language with binary code to feeling like a Python-taming superhero. I'm on a mission to create more diverse solutions than a buffet menu, and I won't let any language barriers stand in my way – not even Klingon! I've got a variety of language tools at my disposal.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
